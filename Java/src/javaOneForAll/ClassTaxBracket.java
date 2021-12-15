@@ -2,7 +2,7 @@ package javaOneForAll;
 
 public class ClassTaxBracket {
 	public static void main(String[] args) {
-		double annualSalary = 30000;
+		//double annualSalary = 30000;
 		double firstBracket = (9.7/100);
 		double secondBracket = (37.35/100);
 		double thirdyBracket = (49.50/100);
