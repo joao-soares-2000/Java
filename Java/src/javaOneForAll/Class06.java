@@ -1,4 +1,4 @@
-package JavaOneForAll;
+package javaOneForAll;
 
 public class Class06 {
 	public static void main(String[] args) {
