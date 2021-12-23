@@ -2,9 +2,9 @@ package javaExercises;
 
 import java.util.Scanner;
 
-//A) R = U/I
 public class Exercise19 {
 	public static void main(String[] args) {
+//A) R = U/I
 		/*Scanner scanner1 = new Scanner(System.in);
 		System.out.println("Volts ");
 		float volts = scanner1.nextFloat();
